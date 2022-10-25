@@ -1,2 +1,2 @@
-# combining varoius data
+# combining data
  
